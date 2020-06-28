@@ -12,7 +12,7 @@
     "Other"
   ],
   "activationEvents": [
-    "onCommand:doc-doctor.helloWorld",
+    "onCommand:doc-doctor.checkGrammar",
     "onDebug"
   ],
   "main": "./extension.js",
@@ -32,8 +32,8 @@
     },
     "commands": [
       {
-        "command": "doc-doctor.helloWorld",
-        "title": "Hello World"
+        "command": "doc-doctor.checkGrammar",
+        "title": "Check Docstring"
       }
     ]
   },

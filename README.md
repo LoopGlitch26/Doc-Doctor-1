@@ -7,6 +7,7 @@ Docstring grammar checks
 ### Grammar check
 
 Checking grammar of the docstring.
+![Error array](result_array.png)
 
 ## Install
 
